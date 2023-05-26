@@ -9,7 +9,8 @@ SHORT_USERNAME
 SHORT_PASSWORD
 SHORT_DB_PREFIX=short_
 
-SHORT_CONFIG_PATH=src/config.php
+SHORT_CONFIG_SRC_PATH=src/config.php
+SHORT_CONFIG_DST_PATH=src/user/config.php
 
 # WP_SALT_ prefix would fetch randomized salt from wordpress api
 WP_SALT_COOKIEKEY
