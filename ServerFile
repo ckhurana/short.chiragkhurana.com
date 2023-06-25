@@ -19,7 +19,7 @@ SALT_COOKIEKEY
 ##############################
 
 [PreSync]
-SOURCE=git@github.com:YOURLS/YOURLS.git
+MAIN_SOURCE=git@github.com:YOURLS/YOURLS.git
 [/PreSync]
 
 ##############################
