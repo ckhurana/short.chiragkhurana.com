@@ -11,8 +11,10 @@ SHORT_DB_PREFIX=short_
 
 SHORT_CONFIG_SRC_PATH=src/config.php
 SHORT_CONFIG_DST_PATH=user/config.php
+SHORT_INDEX_FILE_PATH=yourls-loader.php
 
-MAIN_SOURCE=git@github.com:YOURLS/YOURLS.git
+MAIN_SOURCE=https://github.com/YOURLS/YOURLS.git
+MAIN_SOURCE_SSH=git@github.com:YOURLS/YOURLS.git
 
 # SALT_ prefix would create some randomized salt
 SALT_COOKIEKEY
