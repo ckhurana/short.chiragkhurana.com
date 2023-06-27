@@ -16,6 +16,8 @@ SHORT_INDEX_FILE_PATH=yourls-loader.php
 MAIN_SOURCE=https://github.com/YOURLS/YOURLS.git
 MAIN_SOURCE_SSH=git@github.com:YOURLS/YOURLS.git
 
+SHORT_CUSTOM_DOMAIN
+
 # SALT_ prefix would create some randomized salt
 SALT_COOKIEKEY
 [/Environment]
